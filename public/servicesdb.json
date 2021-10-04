@@ -5,7 +5,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
       "title": "2021 Complete Python Bootcamp From Zero to Hero in Python",
       "course_start": "2021-04-06",
-      "course_price": "$128.43",
+      "course_price": 128.43,
       "rating": 5,
       "instructors": [
         {
@@ -29,7 +29,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
       "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
       "course_start": "2021-06-14",
-      "course_price": "$468.38",
+      "course_price": 468.38,
       "rating": 5,
       "instructors": [
         {
@@ -53,7 +53,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/903744_8eb2.jpg",
       "title": "Python for Data Science and Machine Learning Bootcamp",
       "course_start": "2021-08-31",
-      "course_price": "$411.01",
+      "course_price": 411.01,
       "rating": 5,
       "instructors": [
         {
@@ -77,7 +77,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg",
       "title": "Learn Python Programming Masterclass",
       "course_start": "2021-09-09",
-      "course_price": "$157.50",
+      "course_price": 157.50,
       "rating": 5,
       "instructors": [
         {
@@ -101,7 +101,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/692188_9da7_21.jpg",
       "title": "The Python Mega Course: Build 10 Real World Applications",
       "course_start": "2021-06-23",
-      "course_price": "$258.56",
+      "course_price": 258.56,
       "rating": 4,
       "instructors": [
         {
@@ -125,7 +125,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/4221858_0d53_2.jpg",
       "title": "A deep understanding of deep learning (with Python intro)",
       "course_start": "2021-08-14",
-      "course_price": "$427.53",
+      "course_price": 427.50,
       "rating": 4,
       "instructors": [
         {
@@ -149,7 +149,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/4188320_d3e3_3.jpg",
       "title": "Git & GitHub - The Practical Guide",
       "course_start": "2021-09-03",
-      "course_price": "$155.08",
+      "course_price": 155.08,
       "rating": 5,
       "instructors": [
         {
@@ -173,7 +173,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/4105498_05cf_3.jpg",
       "title": "Postman for API Automation Testing with Javascript -2021",
       "course_start": "2021-06-29",
-      "course_price": "$476.41",
+      "course_price": 476.41,
       "rating": 5,
       "instructors": [
         {
@@ -197,7 +197,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/4172946_c417_2.jpg",
       "title": "TOTAL: CompTIA Security+ Certification (SY0-601)",
       "course_start": "2021-05-21",
-      "course_price": "$446.77",
+      "course_price": 446.77,
       "rating": 5,
       "instructors": [
         {
@@ -221,7 +221,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/4182538_bdf1_2.jpg",
       "title": "Azure Databricks & Spark Core For Data Engineers(Python/SQL)",
       "course_start": "2021-01-15",
-      "course_price": "$162.51",
+      "course_price": 162.51,
       "rating": 5,
       "instructors": [
         {
@@ -242,7 +242,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/4261752_af11_6.jpg",
       "title": "Databricks Fundamentals & Apache Spark Core",
       "course_start": "2021-09-18",
-      "course_price": "$161.31",
+      "course_price": 161.31,
       "rating": 4,
       "instructors": [
         {
@@ -266,7 +266,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/4258538_1994.jpg",
       "title": "Low Poly Landscapes - Blender Bite Sized Course",
       "course_start": "2021-07-25",
-      "course_price": "$304.57",
+      "course_price": 304.57,
       "rating": 5,
       "instructors": [
         {
@@ -290,7 +290,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/4230404_b713.jpg",
       "title": "Python for Finance and Algorithmic Trading with QuantConnect",
       "course_start": "2021-02-14",
-      "course_price": "$434.08",
+      "course_price": 434.08,
       "rating": 5,
       "instructors": [
         {
@@ -314,7 +314,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/822444_a6db.jpg",
       "title": "Python and Django Full Stack Web Developer Bootcamp",
       "course_start": "2021-08-27",
-      "course_price": "$481.15",
+      "course_price": 481.15,
       "rating": 5,
       "instructors": [
         {
@@ -338,7 +338,7 @@
       "picture": "https://img-c.udemycdn.com/course/240x135/396876_cc92_7.jpg",
       "title": "Learning Python for Data Analysis and Visualization",
       "course_start": "2021-06-27",
-      "course_price": "$343.89",
+      "course_price": 343.89,
       "rating": 5,
       "instructors": [
         {

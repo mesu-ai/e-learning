@@ -36,12 +36,14 @@ function App() {
           <Contract></Contract>
         </Route>
 
+        {/* <Route path='/cart'>
+          <ShoppingCart></ShoppingCart>
+        </Route> */}
+
         <Route path='*'>
           <NoMatch></NoMatch>
         
         </Route>
-
-
 
       </Switch>
       <Footer></Footer>

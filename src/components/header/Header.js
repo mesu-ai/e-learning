@@ -24,10 +24,10 @@ const Header = () => {
     <Nav className="ms-auto nav-Container">
     
         <NavLink activeClassName='active' to="/home">Home</NavLink>
-        <NavLink to="/about">About</NavLink>
         <NavLink to="/services">Services</NavLink>
         <NavLink to="/about">About</NavLink>
-        <NavLink to="/contract">Contract</NavLink>  
+        <NavLink to="/contract">Contract</NavLink>
+        <NavLink to="/cart"><i className="fas fa-cart-plus fa-lg">aa</i></NavLink>
     </Nav>
   </Navbar.Collapse>
   </Container>
