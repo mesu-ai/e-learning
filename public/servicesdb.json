@@ -7,7 +7,7 @@
       "course_start": "2021-04-06",
       "course_price": "$128.43",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Briggs Harvey"
         },
@@ -21,7 +21,7 @@
           "phone": "+88 (804) 570-2805"
         }
       ],
-      "about": "Become a Python Programmer and learn one of employer's most requested skills of 2021!This is the most comprehensive, yet straight-forward, course for the Python programming language on E-learning!.\r\n"
+      "description": "Become a Python Programmer and learn one of employer's most requested skills of 2021!This is the most comprehensive, yet straight-forward, course for the Python programming language on E-learning!.\r\n"
     },
     {
       "id": "615a93859b2211d6938be047",
@@ -31,7 +31,7 @@
       "course_start": "2021-06-14",
       "course_price": "$468.38",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Tanisha Cox"
         },
@@ -45,7 +45,7 @@
           "phone": "+88 (941) 540-3302"
         }
       ],
-      "about": "Interested in the field of Machine Learning? Then this course is for you!This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way.We will walk you step-by-step into the World of Machine Learning. With every tutorial, you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science..\r\n"
+      "description": "Interested in the field of Machine Learning? Then this course is for you!This course has been designed by two professional Data Scientists so that we can share our knowledge and help you learn complex theory, algorithms, and coding libraries in a simple way.We will walk you step-by-step into the World of Machine Learning. With every tutorial, you will develop new skills and improve your understanding of this challenging yet lucrative sub-field of Data Science..\r\n"
     },
     {
       "id": "615a9385176579c1da0a56b7",
@@ -55,7 +55,7 @@
       "course_start": "2021-08-31",
       "course_price": "$411.01",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Esther Bean"
         },
@@ -69,7 +69,7 @@
           "phone": "+88 (956) 467-3946"
         }
       ],
-      "about": "Are you ready to start your path to becoming a Data Scientist!This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms.\r\n"
+      "description": "Are you ready to start your path to becoming a Data Scientist!This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms.\r\n"
     },
     {
       "id": "615a93855c9b54216f2415c9",
@@ -79,7 +79,7 @@
       "course_start": "2021-09-09",
       "course_price": "$157.50",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Helen Willis"
         },
@@ -93,7 +93,7 @@
           "phone": "+88 (916) 431-3096"
         }
       ],
-      "about": "Whether you want to:- build the skills you need to get your first Python programming job- move to a more senior software developer position- get started with Machine Learning, Data Science, Django or other hot areas that Python specialises in- or just learn Python to be able to create your own Python apps quickly.then you need a solid foundation in Python programming. And this course is designed to give you those core skills, fast.\r\n"
+      "description": "Whether you want to:- build the skills you need to get your first Python programming job- move to a more senior software developer position- get started with Machine Learning, Data Science, Django or other hot areas that Python specialises in- or just learn Python to be able to create your own Python apps quickly.then you need a solid foundation in Python programming. And this course is designed to give you those core skills, fast.\r\n"
     },
     {
       "id": "615a93857cd304578498c6bf",
@@ -103,7 +103,7 @@
       "course_start": "2021-06-23",
       "course_price": "$258.56",
       "rating": 4,
-      "instructor": [
+      "instructors": [
         {
           "name": "Jimenez Sellers"
         },
@@ -117,7 +117,7 @@
           "phone": "+88 (950) 511-2499"
         }
       ],
-      "about": "The Python Mega Course is the most practical course you will find on the web today. In this course, rather than practicing rote memorization, students are actively problem-solving towards tangible goals. You will learn to build real-life desktop programs with graphical user interfaces,  automate routine tasks, control the computer webcam, develop interactive web applications using Flask and Django, scrape and visualize data, and more. You will become a programmer able to produce real-life Python programs and even create professional .exe or .app executables so that everyone can install and use your programs.\r\n"
+      "description": "The Python Mega Course is the most practical course you will find on the web today. In this course, rather than practicing rote memorization, students are actively problem-solving towards tangible goals. You will learn to build real-life desktop programs with graphical user interfaces,  automate routine tasks, control the computer webcam, develop interactive web applications using Flask and Django, scrape and visualize data, and more. You will become a programmer able to produce real-life Python programs and even create professional .exe or .app executables so that everyone can install and use your programs.\r\n"
     },
     {
       "id": "615a9385fafbef8a1700594f",
@@ -127,7 +127,7 @@
       "course_start": "2021-08-14",
       "course_price": "$427.53",
       "rating": 4,
-      "instructor": [
+      "instructors": [
         {
           "name": "Noel Lott"
         },
@@ -141,7 +141,7 @@
           "phone": "+88 (801) 462-3518"
         }
       ],
-      "about": "Deep learning is increasingly dominating technology and has major implications for society.From self-driving cars to medical diagnoses, from face recognition to deep fakes, and from language translation to music generation, deep learning is spreading like wildfire throughout all areas of modern technology.\r\n"
+      "description": "Deep learning is increasingly dominating technology and has major implications for society.From self-driving cars to medical diagnoses, from face recognition to deep fakes, and from language translation to music generation, deep learning is spreading like wildfire throughout all areas of modern technology.\r\n"
     },
     {
       "id": "615a93850458f6eccb8c50bd",
@@ -151,7 +151,7 @@
       "course_start": "2021-09-03",
       "course_price": "$155.08",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Brigitte Burke"
         },
@@ -165,7 +165,7 @@
           "phone": "+88 (994) 412-3342"
         }
       ],
-      "about": "No matter if you're just getting started with (web) development, if you're applying for a developer job or if you just need to refresh your knowledge - version control is a core skill you need to succeed as a developer! Git (a version control system) and Github (a cloud provider for Git managed projects) form an outstanding combination to provide the best possible experience to create and maintain a clearly structured project history!.\r\n"
+      "description": "No matter if you're just getting started with (web) development, if you're applying for a developer job or if you just need to refresh your knowledge - version control is a core skill you need to succeed as a developer! Git (a version control system) and Github (a cloud provider for Git managed projects) form an outstanding combination to provide the best possible experience to create and maintain a clearly structured project history!.\r\n"
     },
     {
       "id": "615a938511dac7c0f1797a37",
@@ -175,7 +175,7 @@
       "course_start": "2021-06-29",
       "course_price": "$476.41",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Janice Harding"
         },
@@ -189,7 +189,7 @@
           "phone": "+88 (936) 453-2778"
         }
       ],
-      "about": "Postman - The Most popular API tool to build Automated API/WebServices Tests with very minimal code in quick and easy way.This tool comes with Powerful JavaScript editor  (Postman object) which helps us to perform various assertions inside the tool to validate your API Tests..\r\n"
+      "description": "Postman - The Most popular API tool to build Automated API/WebServices Tests with very minimal code in quick and easy way.This tool comes with Powerful JavaScript editor  (Postman object) which helps us to perform various assertions inside the tool to validate your API Tests..\r\n"
     },
     {
       "id": "615a93853c4ccf60fab7d56e",
@@ -199,7 +199,7 @@
       "course_start": "2021-05-21",
       "course_price": "$446.77",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Randolph Wagner"
         },
@@ -213,7 +213,7 @@
           "phone": "+88 (899) 483-3283"
         }
       ],
-      "about": "Welcome to the TOTAL: CompTIA Security+ Certification (SY0-601), a course from the production studios of Total Seminars with subject matter experts Mike Meyers and Dan Lachance.This course covers everything you need to know to pass your CompTIA Security+ (SY0-601) certification exam. With over 17 hours of in-depth and fascinating content and 125 video lectures, this course will not only make you a good IT security tech, but make sure you are ready to pass the CompTIA Security+ exam.\r\n"
+      "description": "Welcome to the TOTAL: CompTIA Security+ Certification (SY0-601), a course from the production studios of Total Seminars with subject matter experts Mike Meyers and Dan Lachance.This course covers everything you need to know to pass your CompTIA Security+ (SY0-601) certification exam. With over 17 hours of in-depth and fascinating content and 125 video lectures, this course will not only make you a good IT security tech, but make sure you are ready to pass the CompTIA Security+ exam.\r\n"
     },
     {
       "id": "615a9385f4d6792be556483d",
@@ -223,7 +223,7 @@
       "course_start": "2021-01-15",
       "course_price": "$162.51",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Blankenship Shields"
         }
@@ -234,7 +234,7 @@
           "phone": "+88 (815) 418-3561"
         }
       ],
-      "about": "Welcome!I am looking forward to helping you with learning one of the in-demand data engineering tools in the cloud, Azure Databricks! This course has been taught with implementing a data engineering solution using Azure Databricks and Spark core for a real world project of analysing and reporting on Formula1 motor racing data..\r\n"
+      "description": "Welcome!I am looking forward to helping you with learning one of the in-demand data engineering tools in the cloud, Azure Databricks! This course has been taught with implementing a data engineering solution using Azure Databricks and Spark core for a real world project of analysing and reporting on Formula1 motor racing data..\r\n"
     },
     {
       "id": "615a938558fc27fb829a0048",
@@ -244,7 +244,7 @@
       "course_start": "2021-09-18",
       "course_price": "$161.31",
       "rating": 4,
-      "instructor": [
+      "instructors": [
         {
           "name": "Terry Mclean"
         },
@@ -258,7 +258,7 @@
           "phone": "+88 (807) 567-3132"
         }
       ],
-      "about": "Deep learning is increasingly dominating technology and has major implications for society.From self-driving cars to medical diagnoses, from face recognition to deep fakes, and from language translation to music generation, deep learning is spreading like wildfire throughout all areas of modern technology.\r\n"
+      "description": "Deep learning is increasingly dominating technology and has major implications for society.From self-driving cars to medical diagnoses, from face recognition to deep fakes, and from language translation to music generation, deep learning is spreading like wildfire throughout all areas of modern technology.\r\n"
     },
     {
       "id": "615a9385397c0e9cdf20688a",
@@ -268,7 +268,7 @@
       "course_start": "2021-07-25",
       "course_price": "$304.57",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Loretta Booth"
         },
@@ -282,7 +282,7 @@
           "phone": "+88 (929) 509-3597"
         }
       ],
-      "about": "Learn the foundations of low poly 3D asset creation quickly, without needing to take a huge course.Using Blender 3.0, you'll create a low poly landscape with a house, trees and pond from start to finish.Grant will take you through modeling, texturing, lighting and rendering your creation. You'll learn the Blender interface, along with the main modelling and texturing toolset. All the time, receiving helpful tips and tricks to speed up your workflow so you can create low poly artwork quickly..\r\n"
+      "description": "Learn the foundations of low poly 3D asset creation quickly, without needing to take a huge course.Using Blender 3.0, you'll create a low poly landscape with a house, trees and pond from start to finish.Grant will take you through modeling, texturing, lighting and rendering your creation. You'll learn the Blender interface, along with the main modelling and texturing toolset. All the time, receiving helpful tips and tricks to speed up your workflow so you can create low poly artwork quickly..\r\n"
     },
     {
       "id": "615a9385d1bb716a1f266619",
@@ -292,7 +292,7 @@
       "course_start": "2021-02-14",
       "course_price": "$434.08",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Hayden Bates"
         },
@@ -306,7 +306,7 @@
           "phone": "+88 (890) 474-3957"
         }
       ],
-      "about": "Welcome to the ultimate online course to go from zero to hero in Python for Finance, including Algorithmic Trading with LEAN Engine!This course will guide you through everything you need to know to use Python for Finance and conducting Algorithmic Trading on the QuantConnect platform with the powerful LEAN engine!.\r\n"
+      "description": "Welcome to the ultimate online course to go from zero to hero in Python for Finance, including Algorithmic Trading with LEAN Engine!This course will guide you through everything you need to know to use Python for Finance and conducting Algorithmic Trading on the QuantConnect platform with the powerful LEAN engine!.\r\n"
     },
     {
       "id": "615a938550cf97094d8de56f",
@@ -316,7 +316,7 @@
       "course_start": "2021-08-27",
       "course_price": "$481.15",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Mamie Molina"
         },
@@ -330,7 +330,7 @@
           "phone": "+88 (906) 494-2254"
         }
       ],
-      "about": "Welcome to the Python and Django Full Stack Web Developer Bootcamp! In this course we cover everything you need to know to build a website using Python, Django, and many more web technologies!Whether you want to change career paths, expand your current skill set, start your own entrepreneurial business, become a consultant, or just want to learn, this is the course for you\r\n"
+      "description": "Welcome to the Python and Django Full Stack Web Developer Bootcamp! In this course we cover everything you need to know to build a website using Python, Django, and many more web technologies!Whether you want to change career paths, expand your current skill set, start your own entrepreneurial business, become a consultant, or just want to learn, this is the course for you\r\n"
     },
     {
       "id": "615a93851ce1c57ef8c7e16c",
@@ -340,7 +340,7 @@
       "course_start": "2021-06-27",
       "course_price": "$343.89",
       "rating": 5,
-      "instructor": [
+      "instructors": [
         {
           "name": "Aurora Miles"
         },
@@ -354,6 +354,6 @@
           "phone": "+88 (875) 554-3286"
         }
       ],
-      "about": "PLEASE READ BEFORE ENROLLING:THERE IS AN UPDATED VERSION OF THIS COURSE:PYTHON FOR DATA SCIENCE AND MACHINE LEARNING BOOTCAMP.IF YOU ARE A COMPLETE BEGINNER IN PYTHON-CHECK OUT MY OTHER COURSE COMPLETE PYTHON MASTERCLASS JOURNEY.\r\n"
+      "description": "PLEASE READ BEFORE ENROLLING:THERE IS AN UPDATED VERSION OF THIS COURSE:PYTHON FOR DATA SCIENCE AND MACHINE LEARNING BOOTCAMP.IF YOU ARE A COMPLETE BEGINNER IN PYTHON-CHECK OUT MY OTHER COURSE COMPLETE PYTHON MASTERCLASS JOURNEY.\r\n"
     }
   ]
