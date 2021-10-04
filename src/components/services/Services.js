@@ -36,9 +36,6 @@ const Services = () => {
         <Cart cart={cart}></Cart>
 
         </div>
-        
-
-
 
         </div>
     );

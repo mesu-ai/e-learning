@@ -1,11 +1,26 @@
-import React from 'react';
+import { Row,Container } from "react-bootstrap";
+import useTopservice from "../hooks/useTopservice";
+import Course from "../service/Course";
+
+
 
 const TopService = () => {
+
+
+    const [topservice]=useTopservice();
+    
+
     return (
-        <div>
-            <h3>Top services</h3>
+
+            <Container className="mt-5 mb-5 row mx-auto" style={{margin:'0px 30px'}}>
             
-        </div>
+                <Row xs={1} md={2} lg={3} className="g-4">
+                { topservice.map(service=><Course key={service.id} service={service}></Course>)}
+                </Row>
+
+    
+            </Container>
+
     );
 };
 

@@ -26,7 +26,7 @@ const Course = (props) => {
                         
                     
                     <Card.Footer>
-                        {rating}
+                       <p>Rating : {rating} <i className="fas fa-star text-warning"></i></p> 
                     </Card.Footer>
 
                     <button onClick={()=>props.enrollHandeler(props.service)} className="btn btn-primary mt-2">Enroll Now</button>

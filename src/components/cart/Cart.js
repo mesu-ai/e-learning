@@ -1,6 +1,4 @@
 import React from 'react';
-
-
 const Cart = (props) => {
     // console.log(props.cart);
     const {cart}=props;
