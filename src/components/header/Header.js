@@ -10,13 +10,13 @@ const Header = (props) => {
 <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" sticky="top">
   <Container>
         <Navbar.Brand>
-                        <img
+                        {/* <img
                         alt=""
                         src="/logo.svg"
                         width="30"
                         height="30"
                         className="d-inline-block align-top"
-                        />{' '}
+                        />{' '} */}
                         E-Learning
         </Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -28,7 +28,7 @@ const Header = (props) => {
         <NavLink to="/services">Services</NavLink>
         <NavLink to="/about">About</NavLink>
         <NavLink to="/contract">Contract</NavLink>
-        <NavLink to="/cart"><i className="fas fa-cart-plus fa-lg"></i>{props.quantity}</NavLink>
+        {/* <NavLink to=""><i className="fas fa-cart-plus fa-lg"></i>{props.quantity}</NavLink> */}
     </Nav>
   </Navbar.Collapse>
   </Container>
