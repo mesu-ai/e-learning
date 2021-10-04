@@ -1,9 +1,8 @@
-import React, { useState } from 'react';
+
 import { Card, Col } from 'react-bootstrap';
-import Instructor from '../instructor/Instructor';
 
 const Course = (props) => {
-    const {id,title,picture,course_price,instructors,rating,description,course_start}=props.service;
+    const {title,picture,course_price,rating,course_start}=props.service;
     // console.log(props.service);
    
 

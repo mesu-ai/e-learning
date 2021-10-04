@@ -3,7 +3,8 @@ import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import './Header.css';
 
-const Header = () => {
+const Header = (props) => {
+  console.log(props);
     return (
   
 <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" sticky="top">
@@ -27,7 +28,7 @@ const Header = () => {
         <NavLink to="/services">Services</NavLink>
         <NavLink to="/about">About</NavLink>
         <NavLink to="/contract">Contract</NavLink>
-        <NavLink to="/cart"><i className="fas fa-cart-plus fa-lg">aa</i></NavLink>
+        <NavLink to="/cart"><i className="fas fa-cart-plus fa-lg"></i>{props.quantity}</NavLink>
     </Nav>
   </Navbar.Collapse>
   </Container>

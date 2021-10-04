@@ -1,0 +1,5 @@
+.home-banner{
+    height: 540px;
+    width: 100%;
+    background-image: linear-gradient(to left, rgb(3, 3, 48),navy);
+}
