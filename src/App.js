@@ -8,6 +8,7 @@ import Home from './components/home/Home';
 import NoMatch from './components/nomatch/NoMatch';
 import Services from './components/services/Services';
 import Footer from './components/footer/Footer';
+import Success from './components/success/Success';
 
 function App() {
   return (
@@ -39,10 +40,9 @@ function App() {
           <Cart></Cart>
         </Route> */}
 
-        {/* <Route path='/toprankservice/:serviceId'>
-          <Details></Details>
-
-        </Route> */}
+        <Route path='/success'>
+          <Success></Success>
+        </Route>
 
         <Route exact path='/'>
           <Home></Home>
