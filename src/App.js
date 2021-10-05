@@ -22,9 +22,7 @@ function App() {
           <Home></Home>
         </Route>
 
-        <Route exact path='/'>
-          <Home></Home>
-        </Route>
+        
 
         <Route path='/services'>
           <Services></Services>
@@ -38,13 +36,16 @@ function App() {
           <Contract></Contract>
         </Route>
 
-        <Route path='/cart'>
+        {/* <Route path='/cart'>
           <Cart></Cart>
+        </Route> */}
+
+        <Route exact path='/'>
+          <Home></Home>
         </Route>
 
         <Route path='*'>
           <NoMatch></NoMatch>
-        
         </Route>
 
       </Switch>
