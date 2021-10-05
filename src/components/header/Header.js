@@ -30,7 +30,7 @@ const Header = (props) => {
         <NavLink activeClassName to="/services">Services</NavLink>
         <NavLink activeClassName to="/about">About</NavLink>
         <NavLink activeClassName to="/contract">Contract</NavLink>
-        {/* <NavLink to=""><i className="fas fa-cart-plus fa-lg"></i>{props.quantity}</NavLink> */}
+        <NavLink to="/cart"><i className="fas fa-cart-plus fa-lg"></i>{props.quantity}</NavLink>
     </Nav>
   </Navbar.Collapse>
   </Container>
