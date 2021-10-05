@@ -7,7 +7,7 @@ const Contract = () => {
       
 
 
-          <Container style={{backgroundColor:'#ededed'}} className="p-5 text-white shadow-lg rounded-3 m-4 mx-auto ">
+          <Container style={{backgroundColor:'ghostwhite'}} className="p-5 text-white shadow-lg rounded-3 m-4 mx-auto ">
 
           <Form>
             <Row className="row row-cols-lg-2 row-cols-1">

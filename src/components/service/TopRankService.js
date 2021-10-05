@@ -1,4 +1,3 @@
-
 import Button from "@restart/ui/esm/Button";
 import { useState } from "react";
 import { Card, Col, Modal} from "react-bootstrap";
@@ -56,11 +55,12 @@ const ToprankService = (props) => {
                         <p className="fs-5">$ <span className="text-danger fw-bold ">{course_price}</span> </p>
                         <p className="text-primary fw-bold"><span className="text-black">Course Start: </span>{course_start}</p>
                         <span className="fw-bold">Instructor:</span>
-                        <ol>
-                            <i>
-                            {instructors.map(instructor=><li> <Instructor key={Math.random()} instructor={instructor}></Instructor></li>)}
-
-                        </i></ol>
+                        
+                        <ol type="i">                           
+                            {
+                            instructors.map(instructor=><li> <Instructor key={Math.random()} instructor={instructor}></Instructor></li>)
+                            }
+                        </ol>
 
                         </Modal.Body>
                         <Modal.Footer>
@@ -69,6 +69,7 @@ const ToprankService = (props) => {
                         </Button>
                         </Modal.Footer>
                     </Modal> 
+
 
                 </Card.Body> 
                     
