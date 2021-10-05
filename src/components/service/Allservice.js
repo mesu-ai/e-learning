@@ -1,12 +1,9 @@
 
 import { Card, Col } from 'react-bootstrap';
 
-const Course = (props) => {
+const Allservices = (props) => {
     const {title,picture,course_price,rating,course_start}=props.service;
     // console.log(props.service);
-   
-
-    
 
 
 
@@ -37,4 +34,4 @@ const Course = (props) => {
     );
 };
 
-export default Course;
+export default Allservices;

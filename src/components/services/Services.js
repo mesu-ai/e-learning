@@ -1,8 +1,8 @@
 import { Row } from "react-bootstrap";
-import Course from "../service/Course";
 import useServices from "../hooks/UseServices";
 import {  useState } from "react";
 import Cart from "../cart/Cart";
+import Allservices from "../service/Allservice";
 
 
 const Services = () => {
@@ -26,7 +26,7 @@ const Services = () => {
         <div className="mt-5 mb-5 row" style={{margin:'0px 30px'}}>
             <div className="col-9">
             <Row xs={1} md={2} lg={3} className="g-4">
-            { services.map(service=><Course key={service.id} service={service} enrollHandeler={enrollHandeler} ></Course>)}
+            { services.map(service=><Allservices key={service.id} service={service} enrollHandeler={enrollHandeler} ></Allservices>)}
         </Row>
 
         </div>

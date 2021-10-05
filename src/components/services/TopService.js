@@ -1,6 +1,6 @@
 import { Row,Container } from "react-bootstrap";
 import useTopservice from "../hooks/useTopservice";
-import Course from "../service/Course";
+import Allservices from "../service/Allservice";
 
 
 
@@ -15,7 +15,7 @@ const TopService = () => {
             <Container className="mt-5 mb-5 row mx-auto" style={{margin:'0px 30px'}}>
             
                 <Row xs={1} md={2} lg={3} className="g-4">
-                { topservice.map(service=><Course key={service.id} service={service}></Course>)}
+                { topservice.map(service=><Allservices key={service.id} service={service}></Allservices>)}
                 </Row>
 
     
