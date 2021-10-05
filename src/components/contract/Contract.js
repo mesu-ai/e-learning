@@ -1,5 +1,5 @@
 import React from 'react';
-import { Col, Container, Form, input, Row} from 'react-bootstrap';
+import { Container, Form, Row} from 'react-bootstrap';
 
 const Contract = () => {
     return (
