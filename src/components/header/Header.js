@@ -12,6 +12,7 @@ const Header = (props) => {
 <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" sticky="top">
   <Container>
     
+    {/* logo and brand name */}
         <Navbar.Brand>
         <Link to='/'>
                         <img
@@ -24,16 +25,17 @@ const Header = (props) => {
                        <span className="text-danger fs-3 brandtext">E-Learning</span>
         </Link>
         </Navbar.Brand>
-        
+ 
+  {/* navigation bar */}
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
-  
     <Nav className="ms-auto nav-Container">
     
         <NavLink activeClassName='active' to="/home">Home</NavLink>
         <NavLink activeClassName='active' to="/services">Services</NavLink>
         <NavLink activeClassName='active' to="/about">About</NavLink>
         <NavLink activeClassName='active' to="/contract">Contract Us</NavLink>
+        
         {/* <Link to="/cart"><i className="fas fa-cart-plus fa-lg"></i>{props.quantity}</Link> */}
     </Nav>
   </Navbar.Collapse>

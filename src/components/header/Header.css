@@ -5,7 +5,6 @@
 
 .brandtext{
     font-family: 'Anton', sans-serif;
-    /* color: grey; */
 
 }
 
@@ -30,6 +29,7 @@ a{
     font-weight: 500;
 
 }
+
 /* .navbar-nav a:hover{
    color:navy; 
    background-color:gainsboro;

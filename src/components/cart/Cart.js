@@ -1,10 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 const Cart = (props) => {
-    // console.log(props.cart);
+    
     const {cart}=props;
-    // console.log(cart);
+    
 
+    // calculation payment
     let total=0;
     let totalQuantity=0;
     
@@ -27,6 +28,7 @@ const Cart = (props) => {
 
     return (
         <div>
+            {/* display cart */}
             <p className="fs-5 fw-bold">Quantity: {totalQuantity}</p>
             <p className="fs-5 fw-bold">Enroll Cost: {total.toFixed(2)}</p>
             <p className="fs-5 fw-bold">Shipping Cost: {shipping.toFixed(2)}</p>

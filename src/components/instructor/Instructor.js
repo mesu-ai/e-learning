@@ -1,5 +1,6 @@
 import React from 'react';
 
+// service instructor
 const Instructor = (props) => {
     const {name}=props.instructor;
     return (

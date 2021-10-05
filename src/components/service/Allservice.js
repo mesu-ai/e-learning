@@ -15,13 +15,7 @@ const Allservices = (props) => {
                     <Card.Title>{title}</Card.Title>
                     <Card.Text className="fs-4">$ <span className="text-danger fw-bold ">{course_price}</span> </Card.Text>
                     <Card.Text><span className="fw-bold">Course Start: </span>{course_start} </Card.Text>
-                        
-                        {/* <p> Instructor:<i>
-                            {instructors.map(instructor=><Instructor instructor={instructor}></Instructor>)}
-                            
-                        </i></p> */}
-                        
-                    
+                                     
                     <Card.Footer>
                        <p>Rating : {rating} <i className="fas fa-star text-warning"></i></p> 
                     </Card.Footer>

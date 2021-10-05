@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Successful payment massage
 const Success = () => {
     return (
         <div style={{backgroundColor:'#ededed',height:'450px',width:'100%'}} className="d-flex flex-column align-items-center justify-content-center">
