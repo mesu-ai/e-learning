@@ -5,24 +5,26 @@ import Instructor from "../instructor/Instructor";
 
 const ToprankService = (props) => {
     
-    const {title,picture,course_price,rating,course_start,instructors}=props.service;
+    const {title,picture,course_price,rating,course_start,instructors,description}=props.service;
 
     // console.log(props.service);
     
 
 
 
-    const [show, setShow] = useState(false);
-
-  const handleClose = () => setShow(false);
-  const handleShow = () => setShow(true);
+      const [show, setShow] = useState(false);
+      const handleClose = () => setShow(false);
+      const handleShow = () => setShow(true);
 
     
 
 
 
     return (
-            <Col>
+              
+              <Col> 
+
+                 {/* card design */}
                 <Card style={{backgroundColor:'ghostwhite'}} className="h-100 p-2 shadow-md rounded-3">
                     <Card.Img variant="top" src={picture} />
                     <Card.Body style={{backgroundColor:'gainsboro'}}>
@@ -36,10 +38,12 @@ const ToprankService = (props) => {
                     </Card.Footer>
 
                     
-
+                    {/* modal triger button */}
                     <Button variant="primary" onClick={handleShow} className="btn btn-primary mt-2">
                     Details
                     </Button>
+
+                    {/* modal start */}
 
                     <Modal
                         show={show}
@@ -61,6 +65,8 @@ const ToprankService = (props) => {
                             instructors.map(instructor=><li> <Instructor key={Math.random()} instructor={instructor}></Instructor></li>)
                             }
                         </ol>
+
+                        <p style={{textAlign:'justify'}}>Course Details: <br /> {description.slice(0,120)}</p>
 
                         </Modal.Body>
                         <Modal.Footer>

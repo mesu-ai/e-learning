@@ -6,8 +6,7 @@ const Instructor = (props) => {
         <div>
             <span> {name}</span>
 
-        </div>
-            
+        </div>         
             
     );
 };
