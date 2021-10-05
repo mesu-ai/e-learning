@@ -13,7 +13,7 @@ const Header = (props) => {
   <Container>
     
         <Navbar.Brand>
-        <Link to='/home'>
+        <Link to='/'>
                         <img
                         alt=""
                         src={brandlogo}
