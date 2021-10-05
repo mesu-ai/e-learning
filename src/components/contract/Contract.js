@@ -28,26 +28,9 @@ const Contract = () => {
               <Form.Control as="textarea" rows={4} />
             </Form.Group>
           </Form>
-          {/* <form>
-            <div class="form-row">
-              <div class="form-group col-md-6">
-                <label for="inputEmail4">Email</label>
-                <input type="email" class="form-control" id="inputEmail4" placeholder="Email"/>
-                <label for="inputName">Name</label>
-                <input type="text" class="form-control"  id="inputName" />
-              </div>
-              
-            </div>
-            <div class="form-group">
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="gridCheck"/>
-                <label class="form-check-label" for="gridCheck">
-                  Check me out
-                </label>
-              </div>
-            </div>
-            <button type="submit" class="btn btn-primary">Send</button>
-          </form> */}
+          
+          <button type="submit" class="btn btn-primary px-5">Send</button>
+          
           </Container>
                   
     );

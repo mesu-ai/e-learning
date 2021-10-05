@@ -8,6 +8,7 @@ import Home from './components/home/Home';
 import NoMatch from './components/nomatch/NoMatch';
 import Services from './components/services/Services';
 import Footer from './components/footer/Footer';
+import Cart from './components/cart/Cart';
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
         <Route path='/home'>
           <Home></Home>
         </Route>
-        
+
         <Route exact path='/'>
           <Home></Home>
         </Route>
@@ -37,9 +38,9 @@ function App() {
           <Contract></Contract>
         </Route>
 
-        {/* <Route path='/cart'>
-          <ShoppingCart></ShoppingCart>
-        </Route> */}
+        <Route path='/cart'>
+          <Cart></Cart>
+        </Route>
 
         <Route path='*'>
           <NoMatch></NoMatch>
