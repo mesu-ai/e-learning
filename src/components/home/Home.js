@@ -1,7 +1,6 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
-import Services from '../services/Services';
-import TopService from '../services/TopService';
+import TopServices from '../services/TopServices';
 import './Home.css'
 
 const Home = () => {
@@ -40,7 +39,7 @@ const Home = () => {
         </section>
 
 
-        <TopService></TopService>
+        <TopServices></TopServices>
 
             
         </div>

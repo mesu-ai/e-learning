@@ -8,7 +8,6 @@ import Home from './components/home/Home';
 import NoMatch from './components/nomatch/NoMatch';
 import Services from './components/services/Services';
 import Footer from './components/footer/Footer';
-import Cart from './components/cart/Cart';
 
 function App() {
   return (
@@ -38,6 +37,11 @@ function App() {
 
         {/* <Route path='/cart'>
           <Cart></Cart>
+        </Route> */}
+
+        {/* <Route path='/toprankservice/:serviceId'>
+          <Details></Details>
+
         </Route> */}
 
         <Route exact path='/'>
